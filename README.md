@@ -6,4 +6,4 @@
 - _Em busca de novos desafios!_
 
 #### Meu desenvolvimento 💛
-![Nicole GitHub stats](https://github-readme-stats.vercel.app/api?username=nicanico&show_icons=true&title_color=ff8247&text_color=ff8c00&icon_color=cc7000&border_color=ed9121&bg_color=fafad2)
+![Nicole GitHub stats](https://github-readme-stats.vercel.app/api?username=nicanico&show_icons=true&title_color=ff8247&text_color=ff8c00&icon_color=cc7000&border_color=ed9121&bg_color=f7d0a1)
