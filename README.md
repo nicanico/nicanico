@@ -8,10 +8,8 @@
 - _Em busca de novos desafios!_<br/>
 
 
-
-
-##### meu desenvolvimento:<p align="center">
-![](https://github-readme-stats.vercel.app/api?username=nicanico&theme=vue&hide_border=false&include_all_commits=false&count_private=false&card_width=370px)
+##### meu desenvolvimento:
+![](https://github-readme-stats.vercel.app/api?username=nicanico&theme=vue&hide_border=false&include_all_commits=false&count_private=false&card_width=350px)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nicanico&theme=vue&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicanico&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
