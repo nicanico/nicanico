@@ -10,9 +10,10 @@
 
 ##### Meu desenvolvimento:
 
-![](https://github-readme-stats.vercel.app/api?username=nicanico&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nicanico&theme=solarized-light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nicanico&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicanico&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nicanico&theme=solarized-light&hide_border=false)<br/>
+
 
 ---
 
