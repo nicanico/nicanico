@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20BD92&center=true&width=435&lines=Hello!+I'm+Nico!)](https://git.io/typing-svg)
 
 ##### Fique a vontade! 🌱
-- _Estudante do segundo semestre em Desenvolvimento de Sistemas._<br/>
+- _Estudante do segundo semestre em Desenvolvimento de Sistemas no SENAI_<br/>
 - _Procurando melhorar cada vez mais meu trabalho e aberta a críticas!_<br/>
 - _Em busca de novos desafios!_<br/>
 
