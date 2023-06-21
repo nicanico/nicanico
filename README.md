@@ -50,7 +50,7 @@
 
 <p align="center">
   
-  _Framworks, Plataformas e Bibliotecas_
+  _Frameworks, Plataformas e Bibliotecas_
   
 </p>
 
