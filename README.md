@@ -18,7 +18,9 @@
 
 <span align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=nicanico&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![](https://github-readme-activity-graph.vercel.app/graph?username=nicanico&theme=one-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-stats.vercel.app/api?username=nicanico&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
+ㅤㅤㅤ 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nicanico&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicanico&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
