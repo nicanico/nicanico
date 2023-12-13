@@ -8,7 +8,7 @@
 
 
 ##### Fique a vontade! ⭐
-- _Estudante do terceiro semestre em Desenvolvimento de Sistemas no SENAI._<br/>
+- _Formada em Desenvolvimento de Sistemas no SENAI._<br/>
 - _Procurando melhorar cada vez mais meu trabalho e aberta a críticas!_<br/>
 - _Em busca de novos desafios!_<br/>
 
